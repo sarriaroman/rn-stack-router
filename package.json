@@ -1,0 +1,41 @@
+{
+    "name": "rn-stack-router",
+    "version": "1.0.0",
+    "description": "React Native Stack Navigation based on URIs",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sarriaroman/rn-stack-router.git"
+    },
+    "author": {
+        "name": "Román A. Sarria"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sarriaroman/rn-stack-router/issues"
+    },
+    "homepage": "https://github.com/sarriaroman/rn-stack-router#readme",
+    "dependencies": {
+        "route-parser": "0.0.5"
+    },
+    "keywords": [
+        "react-component",
+        "react-native",
+        "ios",
+        "android",
+        "navigator",
+        "URI",
+        "route",
+        "express"
+    ],
+    "peerDependencies": {
+        "react-native": ">=0.29"
+    },
+    "maintainers": [
+        {
+            "name": "Román A. Sarria",
+            "email": "agustin478@gmail.com"
+        }
+    ]
+}
